@@ -1,0 +1,40 @@
+# File types
+*.sqlite3
+*.sqlite
+*.pyc
+*.swo
+*.swp
+*.swn
+*.db
+*.xml
+
+
+# Directories
+
+__pycache__/
+.idea/
+logs/
+.venv
+.env
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.vscode/
+assets/
+media/
+htdocs/
+
+
+# Specific files
+
+*.komodoproject
+
+# OS generated files
+
+.directory
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
